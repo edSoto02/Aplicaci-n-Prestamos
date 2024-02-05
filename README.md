@@ -3,7 +3,7 @@
 
 ![Lenguaje C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## El proyecto se trata de un aplicacion de la cual se realizan prestamos de libros a estudiantes de la AUCM. La aplicacion realiza una serie de operaciones como Agregar, Consultar, Modificar y Eliminar. 
+## El proyecto se trata de un aplicacion de la cual se realizan prestamos de libros a estudiantes de la UACM. La aplicacion realiza una serie de operaciones como Agregar, Consultar, Modificar y Eliminar. 
 #### Implementacion de un CRUD.
 - Agregar Prestamo. 
 - Consultar datos de Prestamo.
